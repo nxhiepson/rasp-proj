@@ -2,8 +2,8 @@ import RPi.GPIO as GPIO
 import time
 
 # Define LCD pin numbers
-RS = 7
-E = 8
+RS = 27
+E = 22
 D4 = 25
 D5 = 24
 D6 = 23
